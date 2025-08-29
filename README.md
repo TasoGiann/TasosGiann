@@ -10,6 +10,8 @@ I'm studying Cybersecurity and Networks at East London University.
 ## Skills
 Not many yet :P
 
+## Projects
+Currently working on the basics, so please be patient hahaha!
 ## Tools
 
 ### Network
@@ -28,5 +30,4 @@ Not many yet :P
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
 
