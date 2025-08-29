@@ -4,7 +4,7 @@
 I am studying Cybersecurity and Networks with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-After exploring several careers and finding none as exciting as breaking systems, I developed a passion for cybersecurity and am now eager to transition into this field, specifically aiming to become a junior penetration tester.
+After exploring several careers and finding none as exciting as breaking systems, I developed a passion for cybersecurity and am now eager to transition into this field, specifically aiming to become a SOC analyst and then pivot to Ethical hacking.
 I'm studying Cybersecurity and Networks at East London University.
 
 ## Skills
