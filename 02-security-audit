@@ -1,0 +1,16 @@
+## Security Audit – Small Business
+
+### Findings
+- Weak password policy
+- No MFA enabled
+- No firewall rules configured
+- No backup strategy
+
+### Risk Level
+- Overall: Medium
+
+### Recommendations
+- Enforce strong passwords
+- Enable MFA
+- Configure firewall
+- Implement regular backups
