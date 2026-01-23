@@ -18,8 +18,9 @@ Commands Used
 touch file.txt
 ls -l file.txt
 chmod 640 file.txt
-chown user:user file.txt  ```
+chown user:user file.txt  
 
+---
 
 
 Permission Breakdown
