@@ -134,4 +134,4 @@ A structured self-learning journey documenting daily progress, labs, screenshots
 ---
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/tasos-giannoulis-5670a2275/](https://www.linkedin.com/in/tasos-giannoulis/)
+- LinkedIn: (https://www.linkedin.com/in/tasos-giannoulis/)
