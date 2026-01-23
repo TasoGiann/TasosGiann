@@ -19,7 +19,7 @@ touch file.txt
 ls -l file.txt
 chmod 640 file.txt
 chown user:user file.txt
-Permission Breakdown
+
 After applying chmod 640 file.txt:
 
 Owner: read and write
