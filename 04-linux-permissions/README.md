@@ -21,24 +21,22 @@ touch file.txt
 Checked file permissions
 
 bash
-Copy code
 ls -l file.txt
 Changed file permissions
 
 bash
-Copy code
 chmod 640 file.txt
 Changed file ownership
 
 bash
-Copy code
 chown user:user file.txt
 Permission Explanation
+
 After running:
 
 bash
-Copy code
 chmod 640 file.txt
+
 The permissions mean:
 
 Owner: read and write
