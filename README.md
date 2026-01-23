@@ -1,5 +1,7 @@
 # Hello, I'm Tasos
-<a href="https://www.linkedin.com/in/tasos-giannoulis/(https://www.linkedin.com/in/tasos-giannoulis/)](https://www.linkedin.com/in/tasos-giannoulis/)/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tasos-giannoulis/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 I am a **Cybersecurity & Networks university student (1st year)** with a strong interest in defensive security, networking, and incident response.  
 I enjoy hands-on learning, breaking down real security problems, and building practical skills through labs and projects.
