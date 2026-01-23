@@ -1,46 +1,45 @@
 ## Linux File Permissions & Ownership
 
-### Overview
-This project demonstrates the use of Linux file permissions and ownership to control access to files and directories.
-
-The goal is to understand how access control works in Linux systems and how improper permissions can lead to security issues.
+### What I did
+In this project, I practiced managing file permissions and ownership on a Linux system.
+The goal was to understand how Linux controls access to files and how permissions affect security.
 
 ---
 
 ### Environment
 - Operating System: Ubuntu Linux
-- User type: Local user
-- Terminal access
+- Terminal: Bash
+- User account: Local user
 
 ---
 
-### Permission Model
-Linux permissions are divided into three categories:
-- **Owner**
-- **Group**
-- **Others**
+### Steps Performed
 
-Each category can have the following permissions:
-- **Read (r)**
-- **Write (w)**
-- **Execute (x)**
-
----
-
-### Commands Used
-
+1. Created a test file
 ```bash
-ls -l
+touch file.txt
+Checked file permissions
+
+bash
+Copy code
+ls -l file.txt
+Changed file permissions
+
+bash
+Copy code
 chmod 640 file.txt
+Changed file ownership
+
+bash
+Copy code
 chown user:user file.txt
+Permission Explanation
+After running:
 
-Explanation of Commands
-
-ls -l
-Displays file permissions, ownership, and metadata.
-
+bash
+Copy code
 chmod 640 file.txt
-Sets the following permissions:
+The permissions mean:
 
 Owner: read and write
 
@@ -48,34 +47,26 @@ Group: read
 
 Others: no access
 
-chown user:user file.txt
-Changes the owner and group of the file to the specified user.
+This follows the principle of least privilege, allowing only necessary access.
 
-Security Perspective
-
-Improper file permissions can allow:
+Security Relevance
+Incorrect file permissions can lead to:
 
 Unauthorized access to sensitive files
 
-Accidental modification or deletion of data
+Accidental data modification
 
-Privilege escalation opportunities
+Security misconfigurations
 
-Applying the principle of least privilege helps reduce these risks by granting only the minimum permissions required.
+By setting proper permissions, access to the file is restricted to authorized users only.
 
 Outcome
+File access is limited to the intended user
 
-After applying the correct permissions:
-
-Access to the file is restricted
-
-Only authorized users can modify the file
+Unauthorized users cannot read or modify the file
 
 System security is improved
 
 Conclusion
+This project demonstrates basic Linux permission management, which is an essential skill for cybersecurity and system security roles.
 
-Understanding and managing Linux file permissions is a fundamental skill in cybersecurity.
-This project demonstrates how basic permission controls contribute to system hardening and access control.
-
----
