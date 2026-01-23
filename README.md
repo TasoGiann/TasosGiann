@@ -109,6 +109,16 @@ A structured self-learning journey documenting daily progress, labs, screenshots
 - Security fundamentals
 - Practical hands-on screenshots
 
+
+## 📈 Roadmap Progress
+
+- 🟢 **Day:** 15 / 100  
+- 📊 **Completion:** 15%
+
+Progress bar:
+Copy code
+███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 ---
 
 ## 🎓 Education
