@@ -11,7 +11,7 @@ This scenario reflects a common **Junior IT Support** task involving access trou
 ## Incident Information
 
 - **Incident ID:** IR-001  
-- **Date:** 29 January 2026  
+- **Date:** 21 January 2026  
 - **Reported By:** End User  
 - **System:** Ubuntu Linux  
 - **User Type:** Standard (non-root)
