@@ -64,12 +64,3 @@ Linux file permission management
 Command-line access control  
 Application of security best practices  
 Entry-level system administration troubleshooting
-
-File access was successfully restricted to authorized users only, improving the overall security posture of the system.
-
-Skills Demonstrated
-
-Linux file permission management
-Command-line access control
-Application of security best practices
-Entry-level system administration troubleshooting
