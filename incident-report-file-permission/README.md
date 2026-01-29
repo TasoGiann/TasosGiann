@@ -1,20 +1,18 @@
-<details>
-<summary><strong>🔐 Linux File Permissions Lab</strong></summary>
+### Linux File Permissions Lab
 
-<br>
 
-### 🎯 Objective
+### Objective
 Demonstrate how Linux file permissions can be configured to enforce the principle of least privilege.
 
 ---
 
-### 🖥️ Environment
+### Environment
 - OS: Ubuntu Linux  
 - User: Local non-root user  
 
 ---
 
-### 🛠️ Steps Performed
+### Steps Performed
 
 **1. Check current file permissions**
 ```bash
@@ -30,13 +28,13 @@ Group: read
 
 Others: no access
 
-🔐 Security Impact
+Security Impact
 Prevents unauthorized access
 
 Reduces risk of accidental data exposure
 
 Enforces the principle of least privilege
 
-✅ Outcome
+Outcome
 File access was successfully restricted to authorized users only.
 
