@@ -1,79 +1,42 @@
-# Incident Report – File Access Issue (Linux)
+<details>
+<summary><strong>🔐 Linux File Permissions Lab</strong></summary>
 
-## Overview
-This incident report documents the investigation and resolution of a file access issue on a Linux system.  
-The issue was caused by misconfigured file permissions, resulting in a **“Permission denied”** error for the user.
+<br>
 
-This scenario reflects a common **Junior IT Support** task involving access troubleshooting and permission management.
-
----
-
-## Incident Information
-
-- **Incident ID:** IR-001  
-- **Date:** 29 January 2026  
-- **Reported By:** End User  
-- **System:** Ubuntu Linux  
-- **User Type:** Standard (non-root)
+### 🎯 Objective
+Demonstrate how Linux file permissions can be configured to enforce the principle of least privilege.
 
 ---
 
-## Incident Description
-The user reported being unable to access a required text file used for daily work tasks.  
-When attempting to open the file, the system returned a **Permission denied** error.
+### 🖥️ Environment
+- OS: Ubuntu Linux  
+- User: Local non-root user  
 
 ---
 
-## Initial Assessment
-Based on the error message, a file permission issue was suspected rather than file corruption or application failure.
+### 🛠️ Steps Performed
 
----
-
-## Investigation Steps
-
-1. Checked the file permissions:
-   ```bash
-   ls -l file.txt
-Identified that the file permissions restricted access for the user.
-
-Confirmed that the user required read access to the file to perform job-related tasks.
-
-Root Cause
-The file permissions were misconfigured, preventing authorized access.
-This resulted in reduced usability while attempting to enforce security controls.
-
-Resolution
-Updated the file permissions to allow appropriate access:
+**1. Check current file permissions**
+```bash
+ls -l file.txt
+2. Modify permissions
 
 chmod 640 file.txt
-Verified the updated permissions:
+Permission breakdown:
 
-ls -l file.txt
-Confirmed that the user could successfully access the file.
+Owner: read, write
 
-Security Considerations
-Access was granted following the principle of least privilege
+Group: read
 
-Unauthorized users retained no access
+Others: no access
 
-Risk of accidental data exposure was minimized
+🔐 Security Impact
+Prevents unauthorized access
 
-Outcome
-The incident was resolved successfully.
-Normal file access was restored, and no data loss or security breach occurred.
+Reduces risk of accidental data exposure
 
-Lessons Learned
-Incorrect permissions can significantly impact user productivity
+Enforces the principle of least privilege
 
-Proper permission management balances usability and security
+✅ Outcome
+File access was successfully restricted to authorized users only.
 
-Documented incident handling improves response efficiency in future cases
-
-Skills Demonstrated
-Linux file permission management
-
-Incident investigation and documentation
-
-Troubleshooting access-related issues
-
-Security best practices (least privilege)
