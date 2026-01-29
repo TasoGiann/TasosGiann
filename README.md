@@ -125,7 +125,7 @@ A structured self-learning journey documenting daily progress, labs, screenshots
 ## 📜 Certifications (In Progress)
 
 <div>
-  <img src="https://img.shields.io/badge/-Network%2B%20(In%20Progress)-E53935?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%2B%20(In%20Progress)-E53935?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate%20(In%20Progress)-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
