@@ -69,6 +69,7 @@ Small IR-style writeup documenting a permission-based misconfiguration, the atta
  
 **Completed**
 - Google Cybersecurity Professional Certificate
+
 **Currently studying**
 - Blue Team Level 1 (BTL1) — planned as first professional DFIR certification
 ---
