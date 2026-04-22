@@ -82,6 +82,7 @@ Full build documentation lives in the `dfir-home-lab` repo.
  
 **Completed**
 - Google Cybersecurity Professional Certificate
+
 **Active goal**
 - Blue Team Level 1 (BTL1) by Security Blue Team — my chosen first professional DFIR certification, targeting exam in 2026
 I am deliberately not pursuing vendor-neutral fundamentals certifications (Security+, Network+, CEH) because they do not map to the DFIR work I want to do. My certification budget goes toward practical, scenario-based DFIR credentials: BTL1, and eventually GCFE / GCFA via an employer.
