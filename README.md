@@ -97,7 +97,7 @@ Junior SOC Analyst · Junior DFIR Analyst · Incident Response Intern · Blue Te
 ## Contact
  
 - **LinkedIn:** [tasos-giannoulis](https://www.linkedin.com/in/tasos-giannoulis/)
-- **Email:** *(add your professional email here before publishing)*
+- **Email:** tasos.giannoulis@proton.me
 ---
  
 <sub>Everything in my repositories is original work, done in my own lab, written in my own words. I use AI as a tutor and sparring partner — never as a ghostwriter for anything that gets published.</sub>
