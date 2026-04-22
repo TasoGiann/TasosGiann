@@ -82,7 +82,7 @@ Working through HTB Academy's Linux Fundamentals and Windows Fundamentals paths,
 ## 📫 Contact
  
 - **LinkedIn:** [tasos-giannoulis](https://www.linkedin.com/in/tasos-giannoulis/)
-- **Email:** tasos.giannoulis@proton.me*
+- **Email:** tasos.giannoulis@proton.me
 - **Location:** Greece · Open to EU internships and junior SOC / DFIR roles
 ---
  
